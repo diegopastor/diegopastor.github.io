@@ -1,6 +1,6 @@
 html, body {
-    overflow: hidden;
     margin: 0;
+    background-color: rgb(231,231,231);
 }
 
 body {
@@ -8,48 +8,36 @@ body {
 	color: #333;
 }
 
-#wrapper {
-    position: absolute;
-    left: 0;
-    width: 320px;
-    text-align: center;
-    top: 50%;
-    left: 50%;
-    margin-left: -160px;
-    margin-top: -160px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
+p {
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+    font-size: 1.3em;
+    background: #e7e7e7;
+    line-height: 1.5;
+    color: #5d5d5d;
 }
 
 h1 {
-    font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
-    font-weight: 700;
-    font-size: 30px;
-    letter-spacing: 9px;
-    text-transform: uppercase;
-    margin: 12px 0;
-    left: 4px;
+    font-family: 'Open Sans', 'Helvetica';
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-size: 2.5em;
+    color: #303030;
+    line-height: 0.9;
+    text-align: center;
+    margin-bottom: -0.1em;
 }
 
-h2 {
-    color: #999;
-    font-weight: normal;
-    font-size: 15px;
-    letter-spacing: .12em;
-    margin-bottom: 30px;
-    left: 3px;
-}
-            
-h1, h2 {
-    position: relative;
+h3 {
+    text-align: center;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 0.75em;
+    color: #8d8d8d;
 }
 
-p {
-    font-size: 14px;
-    line-height: 2em;
-    margin: 0;
-    letter-spacing: 2px;
+b {
+  font-weight: 900;
+  color: #404040;
 }
 
 a {
@@ -61,9 +49,52 @@ a {
         color: #f33;
     }
 
-
-#sign{
-    margin-top: 40px;
-    height: 70px;
-    width: 140px;
+#container{
+    margin-top: 35px;
 }
+
+footer {
+    width: 100%;
+    position:absolute;
+    bottom:0;
+    text-align: center;
+    font-size: 12px;
+    color: #9d9d9d; 
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+
+#row {
+    display: block;
+}
+
+
+hr {
+    margin-top: 3em;
+}
+
+ul {
+   margin-top: 2em;
+   color: #8d8d8d; 
+}
+
+a {
+    color: #4a49dd;
+    font-weight: 100;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.card {
+    margin-top: 3em;
+}
+
+.card-text {
+    background-color: white;
+    font-size: 14px;
+}
+
+
