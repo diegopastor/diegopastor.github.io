@@ -1,3 +1,11 @@
+_site
+_sass
+_includes
+_layouts
+_config.yml
+assets
+.sass-cache
+.jekyll-metadata
 .DS_Store
 proj
 ToDo.md
