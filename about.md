@@ -4,7 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-Diego Pastor está en el proceso de obtener un título universitario en ciencias computacionales. Diego reside en Madrid y trabaja como ingeniero de software en una startup.
+Diego Pastor está en el proceso de obtener un título universitario en ciencias computacionales. Diego reside en Madrid y trabaja como ingeniero de software.
 
 Diego planea usar este blog para escribir acerca de fútbol. Específicamente sobre el análisis de datos para generar estrategias en partidos de fútbol.
 
