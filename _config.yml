@@ -16,8 +16,7 @@
 title: dxvgx
 email: dpcalvo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  El lugar en dónde puedes saber más acerca de Diego Pastor y leer sobre 
-  análisis de datos en el fútbol.  
+  El lugar en dónde puedes saber más acerca de Diego Pastor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dxvgx
