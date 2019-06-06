@@ -2,14 +2,18 @@
 layout: default
 ---
 
-Diego Pastor está en el proceso de obtener un título universitario en ciencias computacionales. Diego reside en Madrid y trabaja como Backend Engineer para [MediaSmart](https://www.mediasmart.io)
+Diego Pastor is a Computer Scientist. Currently living in Madrid and working as a Backend Engineer in the exciting world of advertising for [MediaSmart](https://www.mediasmart.io).
 
-Puedes contactar a Diego mandándole un <a class="u-email" href="mailto:{{ site.email }}">correo</a> o en [Twitter](https://twitter.com/dxvgx).
+You can contact Diego by sending an <a class="u-email" href="mailto:{{ site.email }}">email</a> or a DM in [Twitter](https://twitter.com/dxvgx).
 
 ---
 <br>
-Estos son algunos de los proyectos hechos por Diego que te pueden interesar:
+Last 30 Days GitHub Activity:
 
-- [Bot Real Mágico](https://twitter.com/BotRealMagico) - (Un bot de Twitter que automáticamente genera y tuitea una historia de "Realismo Mágico" cada 4 horas. Hecho con Python y MySQL)
+---
+<br>
+This are some of Diego's projects that might interest you:
 
-- [Awesome Soccer Analytics](https://github.com/diegopastor/awesome-soccer-analytics) - (Un compendio de recursos para aprender más acerca del análisis de datos en el fútbol para la toma de decisiones y generación de estrategias dentro y fuera del campo)
+- [Bot Real Mágico](https://twitter.com/BotRealMagico) - (A Twitter bot that automagically generates and tweets a "Magic Realism" story in spanish every 4 hours. Inspired by its <a src="https://twitter.com/MagicRealismBot">english version</a>. Made with Python and MySQL.)
+
+- [Awesome Soccer Analytics](https://github.com/diegopastor/awesome-soccer-analytics) - (A compendium of resources for learning more about data analysis in football for decision making and strategy generation inside and outside the field)
