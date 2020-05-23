@@ -14,7 +14,7 @@ You can contact Diego by sending an <a class="u-email" href="mailto:{{ site.emai
 
 ---
 <br>
-This are some of Diego's projects that might interest you:
+These are some of Diego's projects that might interest you:
 
 - [Bot Real Mágico](https://twitter.com/BotRealMagico) - (A Twitter bot that automagically generates and tweets a "Magic Realism" story in spanish every 4 hours. Inspired by its <a src="https://twitter.com/MagicRealismBot">english version</a>. Made with Python and MySQL.)
 
