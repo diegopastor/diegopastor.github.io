@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Diego Pastor is a Computer Scientist. Currently living in Madrid and working as a Backend Engineer in the exciting world of advertising for [MediaSmart](https://www.mediasmart.io).
+Diego (dxvgx) is a Computer Scientist with a focus in performant and highly available distributed systems. Currently working as a Software Engineer for [Metrica Sports](https://metrica-sports.com).
 
 You can contact Diego by sending an <a class="u-email" href="mailto:{{ site.email }}">email</a> or a DM in [Twitter](https://twitter.com/dxvgx).
 
