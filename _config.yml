@@ -21,10 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dxvgx
 github_username: diegopastor
-instagram_username: dieggopastor
 
 # Build settings
-languages: ["en","es"]
+languages: ["en", "es"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
@@ -33,7 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-polyglot
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
